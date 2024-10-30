@@ -1,0 +1,19 @@
+body {
+	text-align: center;
+	margin: 0 15%;
+	width: 75%;
+	border: solid blue 2px;
+}
+
+h1 {
+	background-color: lightgray;
+	top-margin: 20px;
+	padding: 0px;
+}
+
+h2 {
+	background-color: lightgray;
+	font-style: italic;
+	margin: 0;
+	padding: 0;
+}
